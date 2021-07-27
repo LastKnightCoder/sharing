@@ -4,7 +4,6 @@ background: https://cdn.jsdelivr.net/gh/LastKnightCoder/ImgHosting3@master/flex-
 highlighter: prism
 fonts:
   mono: 'Source Code Pro'
-  provide: 'none'
 canvasWidth: 1300
 ---
 
@@ -1493,8 +1492,27 @@ src: ./grid/grid-template.md
 ---
 
 ---
+src: ./grid/prac.md
+---
+
+---
+src: ./grid/case1.md
+---
+
+---
+src: ./grid/case1s.md
+---
+
+---
+src: ./grid/case2.md
+---
+
+---
 src: ./参考链接.md
 ---
+
+
+
 
 ---
 layout: cover

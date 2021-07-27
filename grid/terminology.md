@@ -2,6 +2,10 @@
 
 介绍 Grid 布局需要用到的术语
 
+
+
+<v-click>
+
 ### 容器和子项
 
 <TwoColumn>
@@ -27,6 +31,10 @@
 
 </TwoColumn>
 
+</v-click>
+
+<v-click>
+
 ### 网格线与网格单元
 
 <TwoColumn>
@@ -40,6 +48,10 @@
 
 </TwoColumn>
 
+</v-click>
+
+<v-click>
+
 ### 网格轨道
 
 相邻网格线形成的行和列，我们称之为轨道。
@@ -50,6 +62,9 @@
   :itemStyle="itemStyle[2]"
   :itemStyles="itemStyles[2]"
 />
+
+</v-click>
+
 
 <script setup>
 
@@ -80,9 +95,9 @@ const itemStyles = [[{
 }, {
   gridRow: 'span 2',
   gridColumn: '3 / 4',
-  backgroundColor: 'rgba(226, 225, 228, 1)',
+  backgroundColor: '#126bae',
 }, {
-  backgroundColor: 'rgba(47, 47, 53, .4)'
+  backgroundColor: '#0f95b0'
 }], [], [{
   backgroundColor: '#ce5577'
 }, {

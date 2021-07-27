@@ -1,0 +1,3 @@
+<WidthResizable>
+<CaseStudy />
+</WidthResizable>

@@ -26,8 +26,9 @@ grid-template: [header-start] 'side header' 75px
 
 </div>
 
-<div style="background: url('https://cdn.jsdelivr.net/gh/LastKnightCoder/ImgHosting3@master/gridhsorthand.78pb54imepc0.jpeg') no-repeat center; backgroundSize: cover;">
-</div>
+<!-- <div style="background: url('https://cdn.jsdelivr.net/gh/LastKnightCoder/ImgHosting3@master/gridhsorthand.78pb54imepc0.jpeg') no-repeat center; backgroundSize: cover;"> -->
+
+<!-- </div> -->
 
 </div>
 
